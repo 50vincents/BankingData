@@ -1,50 +1,39 @@
 {
   "accounts": [
-      {
-        "accountNumber": 1234,
-        "accountList": [
-            {
-                "accountType": "checking",
-                "accountBalance": 457.12
-            },
-            {
-                "accountType": "savings",
-                "accountBalance": 928.45
-            }
-        ],
-        "balance": 211.67
-      },
-      {
-          "accountNumber": 3256,
-          "accountList": [
-              {
-                  "accountType": "savings",
-                  "accountBalance": 1308.34
-              },
-              {
-                  "accountType": "retirement",
-                  "accountBalance": 6431.34
-              }
-          ],
-          "balance": 0
-      },
-      {
-          "accountNumber": 8271,
-          "accountList": [
-              {
-                  "accountType": "checking",
-                  "accountBalance": 245.12
-              },
-              {
-                  "accountType": "savings",
-                  "accountBalance": 5890.21
-              },
-              {
-                  "accountType": "retirement",
-                  "accountBalance": 62.55
-              }
-          ],
-          "balance": 435.21
-      }
-  ]
+        {
+            "accountNumber": 1234,
+            "accountType": "checking",
+            "accountBalance": 457.12
+        },
+        {
+            "accountNumber": 1234,
+            "accountType": "savings",
+            "accountBalance": 923.42
+        },      
+        {
+            "accountNumber": 3256,
+            "accountType": "savings",
+            "accountBalance": 1308.34
+        },
+        {
+            "accountNumber": 3256,
+            "accountType": "retirement",
+            "accountBalance": 6431.34
+        },
+        {
+            "accountNumber": 8271,
+            "accountType": "checking",
+            "accountBalance": 245.12
+        },
+        {
+            "accountNumber": 8271,
+            "accountType": "savings",
+            "accountBalance": 5890.21
+        },
+        {
+            "accountNumber": 8271,
+            "accountType": "retirement",
+            "accountBalance": 62.55
+        }
+    ]
 }
