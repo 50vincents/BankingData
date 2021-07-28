@@ -88,6 +88,7 @@
     ],
     "users": [
         {
+            "id": 1,
             "name": "Stephen Curry",
             "email": "steph@curry.com",
             "address": {
@@ -100,6 +101,7 @@
             "phone": "1-415-123-4567"
         },
         {
+            "id": 2,
             "name": "Klay Thompson",
             "email": "klay@tom.com",
             "address": {
@@ -112,6 +114,7 @@
             "phone": "1-415-432-1234"
         },
         {
+            "id": 3,
             "name": "Tim Lincecum",
             "email": "timmy@dafreak.com",
             "address": {
@@ -124,6 +127,7 @@
             "phone": "1-415-435-2019"
         },
         {
+            "id": 4,
             "name": "Trevor Bauer",
             "email": "tmac@bauer.com",
             "address": {
@@ -136,6 +140,7 @@
             "phone": "1-415-333-3212"
         },
         {
+            "id": 5,
             "name": "Devin Booker",
             "email": "d@books.com",
             "address": {
@@ -148,6 +153,7 @@
             "phone": "1-415-589-3838"
         },
         {
+            "id": 6,
             "name": "Bam Adebayo",
             "email": "bambam@bam.com",
             "address": {
@@ -160,6 +166,7 @@
             "phone": "1-415-344-9909"
         },
         {
+            "id": 7,
             "name": "Buster Posey",
             "email": "blikesto@pose.com",
             "address": {
@@ -172,6 +179,7 @@
             "phone": "1-415-320-1111"
         },
         {
+            "id": 8,
             "name": "Jaren Jackson Jr",
             "email": "triplej@j.com",
             "address": {
@@ -184,6 +192,7 @@
             "phone": "1-415-300-0000"
         },
         {
+            "id": 9,
             "name": "Brandon Crawford",
             "email": "craw@theklaw.com",
             "address": {
