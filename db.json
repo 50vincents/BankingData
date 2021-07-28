@@ -1,5 +1,5 @@
 {
-  "accounts": [
+   "accounts": [
         {
             "accountNumber": 1234,
             "accountType": "checking",
@@ -31,9 +31,170 @@
             "accountBalance": 5890.21
         },
         {
-            "accountNumber": 8271,
+            "accountNumber": 1111,
             "accountType": "retirement",
-            "accountBalance": 62.55
+            "accountBalance": 43209.23
+        },
+        {
+            "accountNumber": 1111,
+            "accountType": "checking",
+            "accountBalance": 3290.23
+        },
+        {
+            "accountNumber": 4440,
+            "accountType": "checking",
+            "accountBalance": 439090.21
+        },
+        {
+            "accountNumber": 8888,
+            "accountType": "retirement",
+            "accountBalance": 9234.12
+        },
+        {
+            "accountNumber": 8888,
+            "accountType": "checking",
+            "accountBalance": 3123.44
+        },
+        {
+            "accountNumber": 9311,
+            "accountType": "savings",
+            "accountBalance": 901233.22
+        },
+        {
+            "accountNumber": 9311,
+            "accountType": "checking",
+            "accountBalance": 99.55
+        },
+        {
+            "accountNumber": 4327,
+            "accountType": "retirement",
+            "accountBalance": 8801.22
+        },
+        {
+            "accountNumber": 4327,
+            "accountType": "checking",
+            "accountBalance": 7210.01
+        },
+        {
+            "accountNumber": 4325,
+            "accountType": "savings",
+            "accountBalance": 80.21
+        },
+        {
+            "accountNumber": 4325,
+            "accountType": "checking",
+            "accountBalance": 32.11
+        }
+    ],
+    "users": [
+        {
+            "name": "Stephen Curry",
+            "email": "steph@curry.com",
+            "address": {
+                "street": "Warriors Drive",
+                "city": "San Francisco",
+                "state": "California",
+                "zipcode": "94112"
+            },
+            "accountNumber": 1234,
+            "phone": "1-415-123-4567"
+        },
+        {
+            "name": "Klay Thompson",
+            "email": "klay@tom.com",
+            "address": {
+                "street": "Thompson Avenue",
+                "city": "San Francisco",
+                "state": "California",
+                "zipcode": "94110"
+            },
+            "accountNumber": 8271,
+            "phone": "1-415-432-1234"
+        },
+        {
+            "name": "Tim Lincecum",
+            "email": "timmy@dafreak.com",
+            "address": {
+                "street": "No Mans Land Blvd",
+                "city": "Bellevue",
+                "state": "Washington",
+                "zipcode": "98029"
+            },
+            "accountNumber": 3256,
+            "phone": "1-415-435-2019"
+        },
+        {
+            "name": "Trevor Bauer",
+            "email": "tmac@bauer.com",
+            "address": {
+                "street": "Cy Young Drive",
+                "city": "Los Angeles",
+                "state": "California",
+                "zipcode": "91234"
+            },
+            "accountNumber": 4325,
+            "phone": "1-415-333-3212"
+        },
+        {
+            "name": "Devin Booker",
+            "email": "d@books.com",
+            "address": {
+                "street": "Suns St",
+                "city": "Phoenix",
+                "state": "Arizona",
+                "zipcode": "54535"
+            },
+            "accountNumber": 4327,
+            "phone": "1-415-589-3838"
+        },
+        {
+            "name": "Bam Adebayo",
+            "email": "bambam@bam.com",
+            "address": {
+                "street": "South Beach",
+                "city": "Miami",
+                "state": "Florida",
+                "zipcode": "43555"
+            },
+            "accountNumber": 9311,
+            "phone": "1-415-344-9909"
+        },
+        {
+            "name": "Buster Posey",
+            "email": "blikesto@pose.com",
+            "address": {
+                "street": "MVP Blvd",
+                "city": "Houston",
+                "state": "Texas",
+                "zipcode": "45555"
+            },
+            "accountNumber": 8888,
+            "phone": "1-415-320-1111"
+        },
+        {
+            "name": "Jaren Jackson Jr",
+            "email": "triplej@j.com",
+            "address": {
+                "street": "Grizzly Ave",
+                "city": "Memphis",
+                "state": "Tennessee",
+                "zipcode": "10491"
+            },
+            "accountNumber": 4440,
+            "phone": "1-415-300-0000"
+        },
+        {
+            "name": "Brandon Crawford",
+            "email": "craw@theklaw.com",
+            "address": {
+                "street": "57 2nd Ave",
+                "city": "New York City",
+                "state": "New York",
+                "zipcode": "10003"
+            },
+            "accountNumber": 1111,
+            "phone": "1-415-002-9901"
         }
     ]
+  
 }
