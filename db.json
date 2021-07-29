@@ -204,6 +204,41 @@
             "accountNumber": 1111,
             "phone": "1-415-002-9901"
         }
+    ],
+     "appointments": [
+        {
+            "city": "San Francisco",
+            "availableAppointments": [
+                {
+                    "appointment": "March 10, 3 PM"
+                },
+                {
+                    "appointment": "July 7, 2 PM"
+                },
+                {
+                    "appointment": "August 3, 10 AM"
+                }
+            ]
+        },
+        {
+            "city": "Oakland",
+            "availableAppointments": [
+                {
+                    "appointment": "August 23, 11 AM"
+                },
+                {
+                    "appointment": "September 15, 3 PM"
+                }
+            ]
+        },
+        {
+            "city": "New York City",
+            "availableAppointments": [
+                {
+                    "appointment": "August 1, 2 PM"
+                }
+            ]
+        }
     ]
   
 }
