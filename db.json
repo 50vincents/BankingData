@@ -205,18 +205,21 @@
             "phone": "1-415-002-9901"
         }
     ],
-     "appointments": [
+    "appointments": [
         {
             "city": "San Francisco",
             "availableAppointments": [
                 {
-                    "appointment": "March 10, 3 PM"
+                    "appointmentDate": "March 10th",
+                    "appointmentTime": "1300"
                 },
                 {
-                    "appointment": "July 7, 2 PM"
+                    "appointmentDate": "July 7th",
+                    "appointmentTime": "1600"
                 },
                 {
-                    "appointment": "August 3, 10 AM"
+                    "appointmentDate": "August 3th",
+                    "appointmentTime": "830"
                 }
             ]
         },
@@ -224,10 +227,12 @@
             "city": "Oakland",
             "availableAppointments": [
                 {
-                    "appointment": "August 23, 11 AM"
+                    "appointmentDate": "August 23rd",
+                    "appointmentTime": "945"
                 },
                 {
-                    "appointment": "September 15, 3 PM"
+                    "appointmentDate": "September 15th",
+                    "appointmentTime": "1445"
                 }
             ]
         },
@@ -235,7 +240,8 @@
             "city": "New York City",
             "availableAppointments": [
                 {
-                    "appointment": "August 1, 2 PM"
+                    "appointmentDate": "August 1st",
+                    "appointmentTime": "1130"
                 }
             ]
         }
