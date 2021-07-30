@@ -208,42 +208,33 @@
     "appointments": [
         {
             "city": "San Francisco",
-            "availableAppointments": [
-                {
-                    "appointmentDate": "March 10th",
-                    "appointmentTime": "13:00"
-                },
-                {
-                    "appointmentDate": "July 7th",
-                    "appointmentTime": "16:00"
-                },
-                {
-                    "appointmentDate": "August 3rd",
-                    "appointmentTime": "8:30"
-                }
-            ]
+            "appointmentDate": "March 10th",
+            "appointmentTime": "13:00"
+        },
+        {
+            "city": "San Francisco",
+            "appointmentDate": "July 7th",
+            "appointmentTime": "16:00"
+        },
+        {
+            "city": "San Francisco",
+            "appointmentDate": "August 3rd",
+            "appointmentTime": "8:30"
         },
         {
             "city": "Oakland",
-            "availableAppointments": [
-                {
-                    "appointmentDate": "August 23rd",
-                    "appointmentTime": "9:45"
-                },
-                {
-                    "appointmentDate": "September 15th",
-                    "appointmentTime": "14:45"
-                }
-            ]
+            "appointmentDate": "August 23rd",
+            "appointmentTime": "9:45"
+        },
+        {
+            "city": "Oakland",
+            "appointmentDate": "September 15th",
+            "appointmentTime": "14:45"
         },
         {
             "city": "New York City",
-            "availableAppointments": [
-                {
-                    "appointmentDate": "August 1st",
-                    "appointmentTime": "11:30"
-                }
-            ]
+            "appointmentDate": "August 1st",
+            "appointmentTime": "11:30"
         }
     ]
   
