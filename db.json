@@ -207,31 +207,37 @@
     ],
     "appointments": [
         {
+            "id": 1,
             "city": "San Francisco",
             "appointmentDate": "March 10th",
             "appointmentTime": "13:00"
         },
         {
+            "id": 2,
             "city": "San Francisco",
             "appointmentDate": "July 7th",
             "appointmentTime": "16:00"
         },
         {
+            "id": 3,
             "city": "San Francisco",
             "appointmentDate": "August 3rd",
             "appointmentTime": "8:30"
         },
         {
+            "id": 4,
             "city": "Oakland",
             "appointmentDate": "August 23rd",
             "appointmentTime": "9:45"
         },
         {
+            "id": 5,
             "city": "Oakland",
             "appointmentDate": "September 15th",
             "appointmentTime": "14:45"
         },
         {
+            "id": 6,
             "city": "New York City",
             "appointmentDate": "August 1st",
             "appointmentTime": "11:30"
