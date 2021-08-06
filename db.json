@@ -84,6 +84,16 @@
             "accountNumber": 4325,
             "accountType": "checking",
             "accountBalance": 32.11
+        },
+        {  
+           "accountNumber": 7890,
+           "accountType": "checking",
+           "accountBalance": 908.22
+        },
+        {
+           "accountNumber": 7890,
+           "accountType": "retirement",
+           "accountBalance": 1029.11
         }
     ],
     "users": [
@@ -203,6 +213,19 @@
             },
             "accountNumber": 1111,
             "phone": "1-415-002-9901"
+        },
+        {
+            "id": 10,
+            "name": "Vincent Thai",
+            "email": "vt35@gmail.com",
+            "address": {
+                "street": "1004 Point Lobos Ave",
+                "city": "San Francisco",
+                "state": "California",
+                "zipcode": "94112"
+            },
+            "accountNumber": 7890,
+            "phone": "1-415-999-9999"
         }
     ],
     "appointments": [
