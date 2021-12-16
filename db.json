@@ -100,132 +100,62 @@
         {
         "id": 1,
             "name": "Stephen Curry",
-            "email": "steph@curry.com",
-            "address": {
-                "street": "Warriors Drive",
-                "city": "San Francisco",
-                "state": "California",
-                "zipcode": "94112"
-            },
             "accountNumber": 8271,
-            "phone": "1-415-123-4567"
+            "phone": "4151234567"
         },
         {
             "id": 2,
             "name": "Klay Thompson",
-            "email": "klay@tom.com",
-            "address": {
-                "street": "Thompson Avenue",
-                "city": "San Francisco",
-                "state": "California",
-                "zipcode": "94110"
-            },
             "accountNumber": 1234,
-            "phone": "1-415-432-1234"
+            "phone": "4154321234"
         },
         {
             "id": 3,
             "name": "Tim Lincecum",
-            "email": "timmy@dafreak.com",
-            "address": {
-                "street": "No Mans Land Blvd",
-                "city": "Bellevue",
-                "state": "Washington",
-                "zipcode": "98029"
-            },
             "accountNumber": 3256,
-            "phone": "1-415-435-2019"
+            "phone": "4154352019"
         },
         {
             "id": 4,
             "name": "Trevor Bauer",
-            "email": "tmac@bauer.com",
-            "address": {
-                "street": "Cy Young Drive",
-                "city": "Los Angeles",
-                "state": "California",
-                "zipcode": "91234"
-            },
             "accountNumber": 4325,
-            "phone": "1-415-333-3212"
+            "phone": "4153333212"
         },
         {
             "id": 5,
             "name": "Devin Booker",
-            "email": "d@books.com",
-            "address": {
-                "street": "Suns St",
-                "city": "Phoenix",
-                "state": "Arizona",
-                "zipcode": "54535"
-            },
             "accountNumber": 4327,
-            "phone": "1-415-589-3838"
+            "phone": "4155893838"
         },
         {
             "id": 6,
             "name": "Bam Adebayo",
-            "email": "bambam@bam.com",
-            "address": {
-                "street": "South Beach",
-                "city": "Miami",
-                "state": "Florida",
-                "zipcode": "43555"
-            },
             "accountNumber": 9311,
-            "phone": "1-415-344-9909"
+            "phone": "4153449909"
         },
         {
             "id": 7,
             "name": "Buster Posey",
-            "email": "blikesto@pose.com",
-            "address": {
-                "street": "MVP Blvd",
-                "city": "Houston",
-                "state": "Texas",
-                "zipcode": "45555"
-            },
             "accountNumber": 8888,
-            "phone": "1-415-320-1111"
+            "phone": "4153201111"
         },
         {
             "id": 8,
-            "name": "Jaren Jackson Jr",
-            "email": "triplej@j.com",
-            "address": {
-                "street": "Grizzly Ave",
-                "city": "Memphis",
-                "state": "Tennessee",
-                "zipcode": "10491"
-            },
+            "name": "Jaren Jackson",
             "accountNumber": 4440,
-            "phone": "1-415-300-0000"
+            "phone": "4153000000"
             },
         {
             "id": 9,
             "name": "Vincent Thai",
-            "email": "vt35@gmail.com",
-            "address": {
-                "street": "21 Crystal St",
-                "city": "San Francisco",
-                "state": "California",
-                "zipcode": "94112"
-            },
             "accountNumber": 7890,
-            "phone": "1-415-999-9999"
+            "phone": "4159999999"
         },
         {
             "id": 10,
             "name": "Olivia Trieu",
-            "email": "ot335@gmail.com",
-            "address": {
-                "street": "57 2nd Ave",
-                "city": "New York City",
-                "state": "New York",
-                "zipcode": "10003"
-            },
             "accountNumber": 1111,
-            "phone": "1-929-002-9901"
+            "phone": "9290029901"
         }
     ],
     "appointments": [
