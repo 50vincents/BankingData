@@ -150,48 +150,48 @@
             "name": "Vincent Thai",
             "accountNumber": 7890,
             "phone": "4159999999"
-        },
-        {
-            "id": 10,
-            "name": "Olivia Trieu",
-            "accountNumber": 1111,
-            "phone": "9290029901"
         }
     ],
     "appointments": [
         {
-            "id": 1,
+            "id": 1234,
+            "name": "Stephen Curry",
             "city": "San Francisco",
             "appointmentDate": "March 10th",
-            "appointmentTime": "13:00"
+            "appointmentTime": "3:00"
         },
         {
-            "id": 2,
+            "id": 2456,
+            "name": "Klay Thompson",
             "city": "San Francisco",
             "appointmentDate": "July 7th",
-            "appointmentTime": "16:00"
+            "appointmentTime": "6:00"
         },
         {
-            "id": 3,
+            "id": 3314,
+            "name": "Draymond Green",
             "city": "San Francisco",
             "appointmentDate": "August 3rd",
             "appointmentTime": "8:30"
         },
         {
-            "id": 4,
+            "id": 4654,
+            "name": "Jordan Poole",
             "city": "Oakland",
             "appointmentDate": "August 23rd",
             "appointmentTime": "9:45"
         },
         {
-            "id": 5,
+            "id": 5908,
+            "name": "Moses Moody",
             "city": "Oakland",
             "appointmentDate": "September 15th",
-            "appointmentTime": "14:45"
+            "appointmentTime": "4:45"
         },
         {
-            "id": 6,
-            "city": "New York City",
+            "id": 3436,
+            "name": "James Wiseman",
+            "city": "Oakland",
             "appointmentDate": "August 1st",
             "appointmentTime": "11:30"
         }
